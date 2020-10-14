@@ -1,0 +1,1 @@
+nohup python3 -m ballclient.main $1 $2 $3 > /var/log/battle.log 2>&1 &
